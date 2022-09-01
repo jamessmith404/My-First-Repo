@@ -4,4 +4,4 @@ NPM     : 2106750225
 
 Kelas   : C
 
-Hobi    : Rebahan
+Hobi    : Rebahan, Makan
